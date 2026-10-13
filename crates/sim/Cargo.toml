@@ -1,0 +1,8 @@
+[package]
+name = "sim"
+description = "BTC trading challenge simulator: data format, engine and accounting"
+edition.workspace = true
+version.workspace = true
+publish.workspace = true
+
+[dependencies]

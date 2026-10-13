@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = ["crates/sim", "strategy"]
+# `cargo run --release` at the root runs your strategy. Use --workspace for tests and lints.
+default-members = ["strategy"]
+
+[workspace.package]
+edition = "2024"
+version = "0.1.0"
+publish = false

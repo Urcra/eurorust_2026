@@ -1,0 +1,9 @@
+[package]
+name = "strategy"
+description = "Your strategy for the Rust BTC Trading Challenge. Edit src/strategy.rs only."
+edition.workspace = true
+version.workspace = true
+publish.workspace = true
+
+[dependencies]
+sim = { path = "../crates/sim" }
