@@ -4,6 +4,8 @@ Write a trading strategy in Rust. We replay real BTC order book data through a s
 
 **The biggest balance at the end wins.**
 
+**The challenge is over.** [RESULTS.md](RESULTS.md) has the ranking and the evaluation data, so you can reproduce your score.
+
 Deadline: **October 16, 2026, 12:00** local time. Results at 17:30 the same day, at our booth. Submit through [the submission form](https://docs.google.com/forms/d/e/1FAIpQLScRaEQ4Gh9ORZOS3dJiwltF3MDNxnjOSj69e_qIRUx9LS8aog/viewform).
 
 ## Start
